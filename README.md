@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tic Tac Toe
 
 ## 1. Project Overview
@@ -94,6 +93,3 @@ To run the backend unit tests using xUnit:
 - **Persistent Storage**: Swap the EF Core In-Memory provider for PostgreSQL or SQL Server to persist data across server restarts.
 - **Integrate AI**: Play with AI mode can be added.
 
-=======
-# abb-interview
->>>>>>> 9616b9971a96b0b73d016b425da44c301f9772ae
